@@ -1,24 +1,28 @@
-# DSA-Grind
-# 🦕 DSA Grind — StegoRise
+<h1 align="center">🦕 DSA-Grind</h1>
 
-Solving LeetCode problems daily. 
-From zero. No shortcuts.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+</p>
 
-## 📊 Stats
-| Total Solved | Easy | Medium | Hard |
-|---|---|---|---|
-| 2 | 2 | 0 | 0 |
+<p align="center">
+  Daily DSA grind — consistency over perfection. One problem at a time. 🔥
+</p>
 
-## ✅ Solved Problems
+---
 
-### Arrays
-| # | Problem | Difficulty | Solution | Pattern |
-|---|---|---|---|---|
-| 9 | Palindrome Number | Easy | [solution](Arrays/palindrome_number.py) | Logic |
-| 1 | Two Sum | Easy | [solution](Arrays/two_sum.py) | HashMap |
+## 📊 Progress Tracker
 
-## 🗓️ Daily Log
-| Date | Problem | Notes |
-|---|---|---|
-| Feb 19 | Two Sum, Palindrome | First day in Python |
-| 
+| Day | Date   | Problem | Title                 | Topic  | Approach              | Status |
+|-----|--------|---------|----------------------|--------|-----------------------|--------|
+| 1   | Feb 19 | #1      | Two Sum              | Arrays | HashMap O(n)          | ✅     |
+| 1   | Feb 19 | #9      | Palindrome Number    | Arrays | Reverse / Math        | ✅     |
+| 2   | Feb 20 | #217    | Contains Duplicate   | Arrays | HashSet O(n)          | ✅     |
+| 3   | Feb 21 | -       | -                    | -      | Missed                | ❌     |
+| 4   | Feb 22 | TBD     | TBD                  | Arrays | TBD                   | 🔄     |
+
+---
+
+## 📁 Structure
+
